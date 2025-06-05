@@ -4,7 +4,7 @@
 
 Instructions copied from https://tradeit.gg/blog/cs2-autoexec-guide/
 
-
+Put the autoexecupdate.bat in the same folder as the autoexec.cfg for it to work
 
 
 
